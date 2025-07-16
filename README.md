@@ -57,6 +57,9 @@ You can deploy this project for free on Streamlit Cloud:
 *Connect your repo and set app.py as the entry point
 *Deploy 🚀
 
+# Present my app is locally deployed 
+http://localhost:8501
+
 ## 📎 Sample Job Description (for testing)
 We are hiring a Data Scientist to build models and extract insights from large datasets.
 Skills required: Python, Machine Learning, scikit-learn, TensorFlow, Data Analysis, NLP.
@@ -66,9 +69,15 @@ Predicted Job Category: Data Science
 Model Confidence: 39.00%
 ATS Keyword Match Score: 29.55%
 
+# Future Enhancements 
+- Deployed Over streamlit cloud (Network)
+- Add some more features like Suggest Required Youtube Videos to improve skill development,Point out which skills needed to improve,add more than one resume to screening.
 
 ## 📩 Contact
 Built by Sowmya Kanithi
+
 Feel free to submit issues or suggestions!
+
+
 
 
