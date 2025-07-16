@@ -58,7 +58,6 @@ You can deploy this project for free on Streamlit Cloud:
 *Deploy 🚀
 
 ## 📎 Sample Job Description (for testing)
-```
 We are hiring a Data Scientist to build models and extract insights from large datasets.
 Skills required: Python, Machine Learning, scikit-learn, TensorFlow, Data Analysis, NLP.
 
