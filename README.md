@@ -19,8 +19,6 @@ A powerful web app that analyzes resumes, predicts job categories using machine 
 6.PyMuPDF (fitz) (for extracting PDF text)
 
 ## 📁 Folder Structure
-bash
-```
 resume-parser-app/
 │
 ├── app.py                  ← Main Streamlit app
